@@ -1,0 +1,26 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Face detection
+face_detection/checkpoints/
+face_detection/data/widerface/widerface.zip
+
+# Facial recognition
+facial_recognition/data/FacePix.zip
+facial_recognition/data/lfwcrop_grey.zip
+facial_recognition/data/ufi-cropped.zip
+facial_recognition/models/*.dat
+facial_recognition/openface/openface.zip
+facial_recognition/trained_model/assets
+facial_recognition/trained_model/variables
+
+# Emotion recognition
+emotion_recognition/benchmarking/test_images.zip
+emotion_recognition/models/full_models/
+emotion_recognition/models/sep_models/
+emotion_recognition/models/*.h5
+emotion_recognition/expression_main.zip
