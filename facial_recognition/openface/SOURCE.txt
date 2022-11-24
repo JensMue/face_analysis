@@ -1,0 +1,13 @@
+https://github.com/cmusatyalab/openface
+
+@techreport{amos2016openface,
+  title={OpenFace: A general-purpose face recognition
+    library with mobile applications},
+  author={Amos, Brandon and Bartosz Ludwiczuk and Satyanarayanan, Mahadev},
+  year={2016},
+  institution={CMU-CS-16-118, CMU School of Computer Science},
+}
+
+B. Amos, B. Ludwiczuk, M. Satyanarayanan,
+"Openface: A general-purpose face recognition library with mobile applications,"
+CMU-CS-16-118, CMU School of Computer Science, Tech. Rep., 2016.
